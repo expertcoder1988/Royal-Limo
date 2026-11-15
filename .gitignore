@@ -1,0 +1,19 @@
+﻿bin/
+obj/
+packages/
+.vs/
+node_modules/
+dist/
+build/
+out/
+*.user
+*.suo
+*.log
+.env
+.env.*
+*.rar
+*.zip
+*.avi
+*.mp4
+*.pfx
+ROYALLIMOCO Handover/
